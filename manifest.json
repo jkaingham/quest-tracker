@@ -2,7 +2,7 @@
   "name": "Quest Tracker",
   "short_name": "Quest",
   "description": "Track time spent on your weekly quests",
-  "start_url": "/index.html",
+  "start_url": "/quest-tracker/index.html",
   "display": "standalone",
   "background_color": "#0d0d0f",
   "theme_color": "#c9a84c",
